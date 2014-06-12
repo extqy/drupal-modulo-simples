@@ -1,4 +1,4 @@
-drupal-modulo-simples
+Módulo simples no Drupal
 =====================
 
-Módulo simples em Drupal 7 para o artigo da iniciativa extqy
+Módulo simples no Drupal 7 para o artigo da iniciativa extqy

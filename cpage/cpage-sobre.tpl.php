@@ -1,0 +1,3 @@
+Hoje é <?php print $today; ?><br/><br/>
+Rhoncus, non facilisis et. <strong>Ridiculus ridiculus</strong> elementum, habitasse cum in in! Augue! Sagittis, scelerisque amet urna, dolor odio facilisis tincidunt dignissim adipiscing, quis purus ac ac sed pid augue pellentesque montes risus tincidunt, eu placerat porta etiam massa purus ac, lundium lundium?<br/><br/>
+Sit turpis! Pulvinar, porttitor, natoque vel! Est sed pid urna urna magnis mid dapibus! Eros! Aliquet. Augue cursus scelerisque sociis pulvinar, turpis vel tempor ut odio vel ut! Ac augue ridiculus lundium nunc! Ultricies nisi diam! Arcu elementum. Pulvinar diam magnis et! Lundium placerat penatibus ridiculus! Sed duis.

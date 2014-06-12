@@ -1,0 +1,32 @@
+<?php
+
+function cpage_menu() {
+  
+  $items['sobre-modulos'] = array(
+      'title' => 'Sobre os módulos',
+      'page callback' => 'cpage_sobre',
+      'access callback' => TRUE,
+      'type' => MENU_CALLBACK,
+  );
+
+  return $items;
+  
+}
+
+function cpage_theme() {
+  
+  $themes['cpage_sobre'] = array(
+    'template' => 'cpage-sobre',
+    'variables' => array ('today' => ''),
+  );
+
+  return $items;
+  
+}
+
+function cpage_sobre() {
+  
+  $date = date('d/m/Y');
+  return theme('cpage_sobre', array('today' => $date));
+  
+}

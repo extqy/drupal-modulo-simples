@@ -1,0 +1,4 @@
+name = cPage
+description = "Módulo customizado para criação de páginas"
+package = cmodules
+core = 7.x
